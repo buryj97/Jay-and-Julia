@@ -32,7 +32,7 @@
    border-top: 50px;
  }
 
-#img1{
+.img1{
   display: block;
  margin-left: auto;
  margin-right: auto;
@@ -41,7 +41,7 @@
  padding-top: 25px;
 }
 
-#img2{
+.img2{
   display: inline;
   width: 33%;
   padding: 15px;
